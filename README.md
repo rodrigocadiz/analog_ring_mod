@@ -2,7 +2,7 @@
 
 ## Overview
 
------ 
+In this paper, we present a device that implements a ring modulator intended to recreate historical analog audio. As simple as it sounds, the multiplication of two analog audio signals is not a straightforward task, mainly due to phenomena such as saturation or non-linearity. Drawing inspiration from historical realizations of ring modulation, we experimented with the most common methods described in the literature. Our device, which is comparatively inexpensive, improves upon the aforementioned alternatives from a DIY perspective. It is predominantly analog, adhering to the practices of the first decades of electroacoustic music, with the notable exception of the digital control for the sinusoidal carrier. We aim to strike a balance between analog audio technology and modern components and techniques. Additionally, this paper includes audio-visual demonstrations that showcase the practical uses of our ring modulator. A comprehensive GitHub repository provides open access to all the resources required for DIY enthusiasts to replicate our implementation.
 
 ## Software Installation
 
@@ -20,10 +20,7 @@ For those new to Autodesk Eagle, you can learn more and get started with your de
 
 - [Autodesk Eagle](https://www.autodesk.com/products/eagle/overview)
 
-## Contributing
+## Acknowledgments/Contributing
 
-----????
+The authors would like to thank Stockahusen Stiftung fur Musik for their support; María Julia Mancero for her participation as a piano performer in the videos; and the anonymous reviewers for their insightful comments and suggestions. This project was funded by the Office for the Arts and Culture of the Vice Presidency for Research, Pontificia Universidad Católica de Chile (ArTeCiH grant) and by ANID/Fondecyt 1230926 and ANID/Anillo ATE220041.
 
-## License
-
-This project is licensed under ---------???
