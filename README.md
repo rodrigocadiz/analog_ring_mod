@@ -6,9 +6,9 @@ In this paper, we present a device that implements a ring modulator intended to 
 
 ## Video extracts: 
 
-- [Extract 1:](https://www.youtube.com/watch?v=Msjlwba8t8I)
+- [Extract 1](https://www.youtube.com/watch?v=Msjlwba8t8I)
 
-- [Extract 2:](https://www.youtube.com/watch?v=kj30MS5Sc_M)
+- [Extract 2](https://www.youtube.com/watch?v=kj30MS5Sc_M)
 
 
 ## Software Installation
