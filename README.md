@@ -1,4 +1,4 @@
-# Analog ring modulation for historical music performances
+# Analog ring modulation: a DIY approach inspired by historical techniques
 
 ## Overview
 
