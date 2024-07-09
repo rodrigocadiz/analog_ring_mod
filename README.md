@@ -6,7 +6,9 @@ In this paper, we present a device that implements a ring modulator intended to 
 
 ## Authors
 Tomas Koljatic, Michel Rozas, Cristián Garcés, Juan Parra Cancino, Rodrigo F. Cádiz
+
 Pontificia Universidad Católica de Chile
+
 Orpheus Instituut
 
 ## Demo videos 
