@@ -1,4 +1,4 @@
-# Ring Modulator
+# Analog ring modulation for historical music performances
 
 ## Overview
 
