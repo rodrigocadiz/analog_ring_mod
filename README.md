@@ -4,11 +4,16 @@
 
 In this paper, we present a device that implements a ring modulator intended to recreate historical analog audio. As simple as it sounds, the multiplication of two analog audio signals is not a straightforward task, mainly due to phenomena such as saturation or non-linearity. Drawing inspiration from historical realizations of ring modulation, we experimented with the most common methods described in the literature. Our device, which is comparatively inexpensive, improves upon the aforementioned alternatives from a DIY perspective. It is predominantly analog, adhering to the practices of the first decades of electroacoustic music, with the notable exception of the digital control for the sinusoidal carrier. We aim to strike a balance between analog audio technology and modern components and techniques. Additionally, this paper includes audio-visual demonstrations that showcase the practical uses of our ring modulator. A comprehensive GitHub repository provides open access to all the resources required for DIY enthusiasts to replicate our implementation.
 
-## Video extracts: 
+## Authors
+Tomas Koljatic, Michel Rozas, Cristián Garcés, Juan Parra Cancino, Rodrigo F. Cádiz
+Pontificia Universidad Católica de Chile
+Orpheus Instituut
 
-- [Extract 1](https://www.youtube.com/watch?v=Msjlwba8t8I)
+## Demo videos 
 
-- [Extract 2](https://www.youtube.com/watch?v=kj30MS5Sc_M)
+- [Video 1](https://www.youtube.com/watch?v=Msjlwba8t8I)
+
+- [Video 2](https://www.youtube.com/watch?v=kj30MS5Sc_M)
 
 
 ## Software Installation
