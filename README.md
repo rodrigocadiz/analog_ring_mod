@@ -12,10 +12,11 @@ Pontificia Universidad Católica de Chile
 Orpheus Instituut
 
 ## Demo videos 
+Video 1:
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Msjlwba8t8I/0.jpg)](http://www.youtube.com/watch?v=Msjlwba8t8I "Analog ring modulation: a DIY approach inspired by historical techniques: Video 1")
 
-- [Video 1](https://www.youtube.com/watch?v=Msjlwba8t8I)
-
-- [Video 2](https://www.youtube.com/watch?v=kj30MS5Sc_M)
+Video 2: 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/kj30MS5Sc_M/0.jpg)](http://www.youtube.com/watch?v=kj30MS5Sc_M "Analog ring modulation: a DIY approach inspired by historical techniques: Video 2")
 
 
 ## Software Installation
